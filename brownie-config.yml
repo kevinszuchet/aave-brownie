@@ -46,6 +46,7 @@ networks:
     eth_usd_price_feed: '0x9326BFA02ADD2366b30bacB125260Af641031331'
     link_eth_price_feed: '0x3Af8C569ab77af5230596Acf0E8c2F9351d24C38'
     dai_eth_price_feed: '0x22B58f1EbEDfCA50feF632bD73368b2FdA96D541'
+    dai_token: '0xFf795577d9AC8bD7D90Ee22b6C1703490b6512FD'
     # You can get the address of the lending pool from the lending pool address provider
     # Sometimes the lending_pool address changes, so we want to get the address from there
     lending_pool_addresses_provider: '0x88757f2f99175387ab4c6a4b3067c77a695b0349'
